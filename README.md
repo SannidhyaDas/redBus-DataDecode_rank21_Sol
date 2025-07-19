@@ -88,16 +88,15 @@ Used to evaluate model predictions against actual seats booked.
 
 ## 🏅 Recognition
 
-- **Top 25 Rank (Rank 21)** among hundreds of participants.
+- **Top 25 Rank (Rank 21)** among 694 teams.
 - Uploaded on [GitHub](https://github.com/SannidhyaDas/redBus-DataDecode_rank21_Sol) to share reproducible research.
-- Awarded **Consolation Prize** in the National Data Visualization Hackathon by **MoSPI, Government of India** for a different competition.
 
 ---
 
 ## 🙏 Acknowledgements
 
 - **redBus** and **Analytics Vidhya** for hosting the challenge.
-- Public sources for Indian holiday data (e.g., [timeanddate.com](https://www.timeanddate.com), official state calendars).
+- Public sources for Indian holiday data (e.g., [digitalpathsala.com](https://digitalpathsala.com/indian-festival-calendar-2024/), official state calendars).
 - Community on GitHub and AV for discussions and guidance.
 
 ---
