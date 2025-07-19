@@ -40,6 +40,10 @@ redBus-DataDecode_rank21_Sol/
 │   ├── submission_with_holidays.csv
 │   ├── holiday_dates.csv          <- Holiday data scraped manually (2023–2025)
 │
+|── Data/
+│   ├── train.zip            <- train data 
+│   ├── test.csv             <- test data
+|
 ├── LB Standings .png              <- Proof of leaderboard rank
 └── README.md                      <- This file
 
