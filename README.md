@@ -34,17 +34,17 @@ redBus-DataDecode_rank21_Sol/
 ├── BestSol/
 │   ├── 15.06.25_v4.ipynb          <- Final best performing solution
 │   ├── submission.csv             <- Corresponding submission file
-│
+│   ├── LB Standings .png          <- Proof of leaderboard rank
 ├── AnotherSol/
 │   ├── 22.06.25_v1.ipynb          <- Alternate solution with holiday enrichment
 │   ├── submission_with_holidays.csv
 │   ├── holiday_dates.csv          <- Holiday data scraped manually (2023–2025)
 │
-|── Data/
+│── Data/
 │   ├── train.zip            <- train data 
 │   ├── test.csv             <- test data
-|
-├── LB Standings .png              <- Proof of leaderboard rank
+│
+├── Model Architecture.png         <- Model Block Diagram
 └── README.md                      <- This file
 
 ```
@@ -54,7 +54,7 @@ redBus-DataDecode_rank21_Sol/
 
 Visual pipeline of the solution:
 
-**[🖼️ View Block Diagram](your_block_diagram_link_here)**
+**[🖼️ View Block Diagram](https://github.com/SannidhyaDas/redBus-DataDecode_rank21_Sol/blob/main/Model%20Architecture.png)**
 
 ---
 
